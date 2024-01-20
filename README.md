@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kartik20122002
+- 👋 Hi, I’m Kartik Hatwar
 - 👀 I’m interested in Coding , Web Devlopment , etc.
-- 🌱 I’m currently learning Electrical Engineering at IIT DHANBAD
-- 💞️ I’m looking to collaborate on Next.js Develpment
+- 🌱 I’m currently learning Spring and Spring Boot
+- 💞️ I’m looking to collaborate on Next.js Development
 - 📫 How to reach me : kartikhatwar98@gmail.com
 
 <!---
