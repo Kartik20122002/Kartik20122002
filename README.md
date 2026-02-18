@@ -8,7 +8,7 @@ I love building clean, performant, and scalable applications — from sleek fron
 
 ### 🚀 About Me  
 - 🎓 B.Tech in Electrical Engineering from **IIT (ISM) Dhanbad**  
-- 💼 Full-Stack Developer @ **KPIT Technologies** (Java, Spring Boot, Python, React)  
+- 💼 Technical Lead @ **KPIT Technologies** (Java, Spring Boot, Python, React)  
 - 👀 Interests: **Web Development, System Design, Scalable Architectures**  
 - 🌱 Currently learning **Spring & Spring Boot** to strengthen my backend game  
 - 💞️ Open to collaborating on **Next.js & full-stack projects**  
